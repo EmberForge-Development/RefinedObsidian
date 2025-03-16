@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "refinedobsidian",
+	"version": "${version}",
+	"name": "Refined Obsidian",
+	"description": "A Mod that adds Obsidian Decorative Blocks that are obtainable in Survival",
+	"authors": [
+		"EmberForge Development"
+	],
+	"contact": {
+		"homepage": "https://emberforge.dev/",
+		"sources": "https://github.com/EmberForge-Development/RefinedObsidian"
+	},
+	"license": "GPL-3.0",
+	"icon": "assets/refinedobsidian/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.emberforge.RefinedObsidian"
+		],
+		"fabric-datagen": [
+			"dev.emberforge.RefinedObsidianDataGenerator"
+		]
+	},
+	"mixins": [
+		"refinedobsidian.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
