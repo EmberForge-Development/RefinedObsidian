@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"dev.emberforge.RefinedObsidian"
+			"dev.emberforge.refinedobsidian.RefinedObsidian"
 		],
 		"fabric-datagen": [
-			"dev.emberforge.RefinedObsidianDataGenerator"
+			"dev.emberforge.refinedobsidian.RefinedObsidianDataGenerator"
 		]
 	},
 	"mixins": [

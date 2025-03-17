@@ -1,6 +1,6 @@
 {
 	"required": true,
-	"package": "dev.emberforge.mixin",
+	"package": "dev.emberforge.refinedobsidian.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
 		"ExampleMixin"
