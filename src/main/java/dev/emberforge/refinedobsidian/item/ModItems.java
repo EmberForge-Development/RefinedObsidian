@@ -8,15 +8,13 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModItems {
-    public static final Item SUMITEM = registerItem("sumitem", new Item(new FabricItemSettings()));
-
-
+    public static final Item OBSIDIAN_DUST = registerItem("obsidian_dust", new Item(new FabricItemSettings()));
 
     private static Item registerItem(String name, Item item){
-        return Registry.register(Registries.ITEM, Identifier(RefinedObsidian.MOD_ID, name), item);
+        return Registry.register(Registries.ITEM, new Identifier(RefinedObsidian.MOD_ID, name), item);
     }
 
     public static void registerModItems() {
-        RefinedObsidian.LOGGER.info("Registering Mod Items for " + RefinedObsidian.MOD_ID);
+        RefinedObsidian.LOGGER.info("Registering Items for " + RefinedObsidian.MOD_ID);
     }
 }

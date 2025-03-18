@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "misc",
+  "ingredient": {
+    "item": "minecraft:obsidian"
+  },
+  "result": "refinedobsidian:obsidian_dust",
+  "count": 9
+}

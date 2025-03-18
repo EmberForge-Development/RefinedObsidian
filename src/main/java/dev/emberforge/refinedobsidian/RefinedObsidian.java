@@ -1,5 +1,7 @@
 package dev.emberforge.refinedobsidian;
 
+import dev.emberforge.refinedobsidian.block.ModBlocks;
+import dev.emberforge.refinedobsidian.item.ModItemGroups;
 import dev.emberforge.refinedobsidian.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -13,7 +15,9 @@ public class RefinedObsidian implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Initializing Mod Refined Obsidian Version " + MOD_VERSION + " by EmberForge Development");
+		LOGGER.info("Initializing Mod Refined Obsidian (Version " + MOD_VERSION + ") by EmberForge Development");
+		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }
