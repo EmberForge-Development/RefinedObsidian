@@ -58,10 +58,23 @@ public class ModBlockTagProvider extends FabricTagProvider.BlockTagProvider {
                 .add(ModBlocks.COBBLED_OBSIDIAN_WALL)
                 .add(ModBlocks.CHISELED_OBSIDIAN);
 
+        getOrCreateTagBuilder(BlockTags.SLABS)
+                .add(ModBlocks.OBSIDIAN_BRICK_SLAB)
+                .add(ModBlocks.OBSIDIAN_TILE_SLAB)
+                .add(ModBlocks.POLISHED_OBSIDIAN_SLAB)
+                .add(ModBlocks.COBBLED_OBSIDIAN_SLAB);
+
+        getOrCreateTagBuilder(BlockTags.STAIRS)
+                .add(ModBlocks.OBSIDIAN_BRICK_STAIRS)
+                .add(ModBlocks.OBSIDIAN_TILE_STAIRS)
+                .add(ModBlocks.POLISHED_OBSIDIAN_STAIRS)
+                .add(ModBlocks.COBBLED_OBSIDIAN_STAIRS);
+
         getOrCreateTagBuilder(BlockTags.WALLS)
                 .add(ModBlocks.OBSIDIAN_BRICK_WALL)
                 .add(ModBlocks.OBSIDIAN_TILE_WALL)
                 .add(ModBlocks.POLISHED_OBSIDIAN_WALL)
                 .add(ModBlocks.COBBLED_OBSIDIAN_WALL);
+
     }
 }

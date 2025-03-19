@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "refinedobsidian:obsidian_brick_stairs",
+    "refinedobsidian:obsidian_tile_stairs",
+    "refinedobsidian:polished_obsidian_stairs",
+    "refinedobsidian:cobbled_obsidian_stairs"
+  ]
+}
