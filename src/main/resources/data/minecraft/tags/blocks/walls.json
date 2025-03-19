@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "refinedobsidian:cobbled_obsidian_wall",
-    "refinedobsidian:obsidian_brick_wall",
-    "refinedobsidian:obsidian_tile_wall",
-    "refinedobsidian:polished_obsidian_wall"
-  ]
-}
