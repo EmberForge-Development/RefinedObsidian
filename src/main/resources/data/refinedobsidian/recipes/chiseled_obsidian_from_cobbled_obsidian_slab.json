@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "S": {
+      "item": "refinedobsidian:cobbled_obsidian_slab"
+    }
+  },
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "result": {
+    "count": 1,
+    "item": "refinedobsidian:chiseled_obsidian"
+  },
+  "show_notification": true
+}

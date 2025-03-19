@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "refinedobsidian:polished_obsidian"
+  },
+  "result": "refinedobsidian:obsidian_brick_slab"
+}

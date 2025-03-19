@@ -25,5 +25,7 @@
 
   "item.refinedobsidian.obsidian_dust": "Obsidian Dust",
 
-  "itemgroup.refinedobsidian": "Refined Obsidian"
+  "itemgroup.refinedobsidian": "Refined Obsidian",
+
+  "trim_material.refinedobsidian.obsidian_dust": "Obsidian Dust Material"
 }
