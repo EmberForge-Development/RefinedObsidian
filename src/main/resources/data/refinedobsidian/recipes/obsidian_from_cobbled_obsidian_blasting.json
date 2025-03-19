@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "refinedobsidian:cobbled_obsidian"
+  },
+  "result": "minecraft:obsidian"
+}

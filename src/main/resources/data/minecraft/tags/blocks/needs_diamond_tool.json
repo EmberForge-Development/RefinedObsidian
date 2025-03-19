@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "refinedobsidian:obsidian_bricks",
+    "refinedobsidian:obsidian_brick_slab",
+    "refinedobsidian:obsidian_brick_stairs",
+    "refinedobsidian:obsidian_brick_wall",
+    "refinedobsidian:cracked_obsidian_bricks",
+    "refinedobsidian:obsidian_tiles",
+    "refinedobsidian:obsidian_tile_slab",
+    "refinedobsidian:obsidian_tile_stairs",
+    "refinedobsidian:obsidian_tile_wall",
+    "refinedobsidian:cracked_obsidian_tiles",
+    "refinedobsidian:polished_obsidian",
+    "refinedobsidian:polished_obsidian_slab",
+    "refinedobsidian:polished_obsidian_stairs",
+    "refinedobsidian:polished_obsidian_wall",
+    "refinedobsidian:cobbled_obsidian",
+    "refinedobsidian:cobbled_obsidian_slab",
+    "refinedobsidian:cobbled_obsidian_stairs",
+    "refinedobsidian:cobbled_obsidian_wall",
+    "refinedobsidian:chiseled_obsidian"
+  ]
+}
