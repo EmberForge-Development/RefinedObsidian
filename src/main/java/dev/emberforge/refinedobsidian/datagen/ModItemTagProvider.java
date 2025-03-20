@@ -1,11 +1,8 @@
 package dev.emberforge.refinedobsidian.datagen;
 
-import dev.emberforge.refinedobsidian.item.ModItems;
 import net.fabricmc.fabric.api.datagen.v1.FabricDataOutput;
 import net.fabricmc.fabric.api.datagen.v1.provider.FabricTagProvider;
 import net.minecraft.registry.RegistryWrapper;
-import net.minecraft.registry.tag.ItemTags;
-import net.minecraft.registry.tag.TagKey;
 
 import java.util.concurrent.CompletableFuture;
 
