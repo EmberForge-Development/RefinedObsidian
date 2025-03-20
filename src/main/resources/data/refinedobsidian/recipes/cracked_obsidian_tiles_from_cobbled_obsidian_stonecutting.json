@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "count": 1,
-  "ingredient": {
-    "item": "refinedobsidian:cobbled_obsidian"
-  },
-  "result": "refinedobsidian:cracked_obsidian_tiles"
-}

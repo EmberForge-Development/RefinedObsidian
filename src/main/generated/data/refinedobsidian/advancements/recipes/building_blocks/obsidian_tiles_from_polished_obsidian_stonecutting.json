@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_obsidian_dust": {
+    "has_polished_obsidian": {
       "conditions": {
         "items": [
           {
             "items": [
-              "refinedobsidian:obsidian_dust"
+              "refinedobsidian:polished_obsidian"
             ]
           }
         ]
@@ -15,20 +15,20 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "refinedobsidian:cobbled_obsidian"
+        "recipe": "minecraft:obsidian_tiles_from_polished_obsidian_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
   },
   "requirements": [
     [
-      "has_obsidian_dust",
+      "has_polished_obsidian",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "refinedobsidian:cobbled_obsidian"
+      "minecraft:obsidian_tiles_from_polished_obsidian_stonecutting"
     ]
   },
   "sends_telemetry_event": false

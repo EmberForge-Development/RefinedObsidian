@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_obsidian_dust": {
+    "has_obsidian_bricks": {
       "conditions": {
         "items": [
           {
             "items": [
-              "refinedobsidian:obsidian_dust"
+              "refinedobsidian:obsidian_bricks"
             ]
           }
         ]
@@ -15,20 +15,20 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "refinedobsidian:cobbled_obsidian"
+        "recipe": "minecraft:obsidian_brick_stairs_from_obsidian_bricks_stonecutting"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
   },
   "requirements": [
     [
-      "has_obsidian_dust",
+      "has_obsidian_bricks",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "refinedobsidian:cobbled_obsidian"
+      "minecraft:obsidian_brick_stairs_from_obsidian_bricks_stonecutting"
     ]
   },
   "sends_telemetry_event": false
