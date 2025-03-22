@@ -24,7 +24,7 @@ public class ModTrimMaterials {
 
     public static void bootstrap(Registerable<ArmorTrimMaterial> registerable) {
         register(registerable, OBSIDIAN_DUST, Registries.ITEM.getEntry(ModItems.OBSIDIAN_DUST),
-                Style.EMPTY.withColor(TextColor.parse("#1d042f")), 0.95f);
+                Style.EMPTY.withColor(TextColor.parse("#350657")), 0.95f);
     }
 
 
