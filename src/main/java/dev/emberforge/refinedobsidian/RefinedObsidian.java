@@ -3,6 +3,7 @@ package dev.emberforge.refinedobsidian;
 import dev.emberforge.refinedobsidian.block.ModBlocks;
 import dev.emberforge.refinedobsidian.item.ModItemGroups;
 import dev.emberforge.refinedobsidian.item.ModItems;
+import dev.emberforge.refinedobsidian.trim.ModTrimMaterials;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
