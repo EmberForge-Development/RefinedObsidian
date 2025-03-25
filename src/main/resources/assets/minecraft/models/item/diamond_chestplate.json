@@ -56,7 +56,7 @@
       }
     },
     {
-      "model": "refinedobsidian:item/diamond_chestplate_obsidian_dust_trim",
+      "model": "minecraft:item/diamond_chestplate_obsidian_dust_trim",
       "predicate": {
         "trim_type": 0.95
       }

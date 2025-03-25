@@ -14,7 +14,7 @@
       }
     },
     {
-      "model": "minecraft:item/netherite_leggings_netherite_darker_trim_trim",
+      "model": "minecraft:item/netherite_leggings_netherite_darker_trim",
       "predicate": {
         "trim_type": 0.3
       }
@@ -56,7 +56,7 @@
       }
     },
     {
-      "model": "refinedobsidian:item/netherite_leggings_obsidian_dust",
+      "model": "minecraft:item/netherite_leggings_obsidian_dust_trim",
       "predicate": {
         "trim_type": 0.95
       }
