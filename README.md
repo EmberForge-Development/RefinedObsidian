@@ -1,5 +1,7 @@
 <p align="center"><img src="https://i.ibb.co/gbVt9xFc/Refined-Obsidian-Logo-2248-1070.png" alt="Logo" width="400"></p>
-<h1 align="center">Refined Obsidian  <br><p>
+<h1 align="center">Refined Obsidian</h1>
+  <p align="center">A Mod that adds Obsidian Decorative Blocks that are obtainable in Survival.</p>
+  <p align="center">
 <a href="https://modrinth.com/project/refinedobsidian">
 <img alt="Modrinth"
 src="https://img.shields.io/badge/Modrinth-NA?style=for-the-badge&logo=modrinth&logoColor=000000&color=00AF5C">
@@ -14,8 +16,6 @@ src="https://img.shields.io/badge/Modrinth-NA?style=for-the-badge&logo=modrinth&
     </a>
  </p>
     <br><br>
-</h1>
-A Mod that adds Obsidian Decorative Blocks that are obtainable in Survival.
 
 ## Contributing
 1. Clone repo
