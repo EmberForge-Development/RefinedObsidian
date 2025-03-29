@@ -1,24 +1,31 @@
 {
-  "block.refinedobsidian.chiseled_obsidian": "Gemeißelter Obsidian",
-  "block.refinedobsidian.cobbled_obsidian": "Bruchobsidian",
-  "block.refinedobsidian.cobbled_obsidian_slab": "Bruchobsidianstufe",
-  "block.refinedobsidian.cobbled_obsidian_stairs": "Bruchobsidiantreppe",
-  "block.refinedobsidian.cobbled_obsidian_wall": "Bruchobsidianmauer",
-  "block.refinedobsidian.cracked_obsidian_bricks": "Rissige Obsidianziegel",
-  "block.refinedobsidian.cracked_obsidian_tiles": "Rissige Obsidianfliesen",
+  "block.refinedobsidian.obsidian_bricks": "Obsidianziegel",
   "block.refinedobsidian.obsidian_brick_slab": "Obsidianziegelstufe",
   "block.refinedobsidian.obsidian_brick_stairs": "Obsidianziegeltreppe",
   "block.refinedobsidian.obsidian_brick_wall": "Obsidianziegelmauer",
-  "block.refinedobsidian.obsidian_bricks": "Obsidianziegel",
+  "block.refinedobsidian.cracked_obsidian_bricks": "Rissige Obsidianziegel",
+
+  "block.refinedobsidian.obsidian_tiles": "Obsidianfliesen",
   "block.refinedobsidian.obsidian_tile_slab": "Obsidianfliesenstufe",
   "block.refinedobsidian.obsidian_tile_stairs": "Obsidianfliesentreppe",
   "block.refinedobsidian.obsidian_tile_wall": "Obsidianfliesenmauer",
-  "block.refinedobsidian.obsidian_tiles": "Obsidianfliesen",
+  "block.refinedobsidian.cracked_obsidian_tiles": "Rissige Obsidianfliesen",
+
   "block.refinedobsidian.polished_obsidian": "Polierter Obsidian",
   "block.refinedobsidian.polished_obsidian_slab": "Polierte Obsidianstufe",
   "block.refinedobsidian.polished_obsidian_stairs": "Polierte Obsidiantreppe",
   "block.refinedobsidian.polished_obsidian_wall": "Polierte Obsidianmauer",
+
+  "block.refinedobsidian.cobbled_obsidian": "Bruchobsidian",
+  "block.refinedobsidian.cobbled_obsidian_slab": "Bruchobsidianstufe",
+  "block.refinedobsidian.cobbled_obsidian_stairs": "Bruchobsidiantreppe",
+  "block.refinedobsidian.cobbled_obsidian_wall": "Bruchobsidianmauer",
+
+  "block.refinedobsidian.chiseled_obsidian": "Gemeißelter Obsidian",
+
   "item.refinedobsidian.obsidian_dust": "Obsidianstaub",
+
   "itemgroup.refinedobsidian": "Veredelter Obsidian",
+
   "trim_material.refinedobsidian.obsidian_dust": "Obsidianstaub"
 }

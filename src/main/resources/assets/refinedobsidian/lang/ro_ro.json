@@ -1,0 +1,31 @@
+{
+  "block.refinedobsidian.obsidian_bricks": "Caramizi de obsidian",
+  "block.refinedobsidian.obsidian_brick_slab": "Lespede de caramizi obsidian",
+  "block.refinedobsidian.obsidian_brick_stairs": "Scari de caramizi obsidian",
+  "block.refinedobsidian.obsidian_brick_wall": "Zid de caramizi obsidian",
+  "block.refinedobsidian.cracked_obsidian_bricks": "caramizi obsidian crapate",
+
+  "block.refinedobsidian.obsidian_tiles": "Placi de obsidian",
+  "block.refinedobsidian.obsidian_tile_slab": "Lespede de placi de obisidian",
+  "block.refinedobsidian.obsidian_tile_stairs": "Scari de placi de obsidian",
+  "block.refinedobsidian.obsidian_tile_wall": "Zid de placi de obsidian",
+  "block.refinedobsidian.cracked_obsidian_tiles": "Placi de obsidian crapate",
+
+  "block.refinedobsidian.polished_obsidian": "Obsidian slefuit",
+  "block.refinedobsidian.polished_obsidian_slab": "Lespede de obsidian slefuit",
+  "block.refinedobsidian.polished_obsidian_stairs": "Scari de obsidian slefuit",
+  "block.refinedobsidian.polished_obsidian_wall": "Zid de obsidian slefuit",
+
+  "block.refinedobsidian.cobbled_obsidian": "Obsidian pietruit",
+  "block.refinedobsidian.cobbled_obsidian_slab": "Lespede de obsidian pietruit",
+  "block.refinedobsidian.cobbled_obsidian_stairs": "Scari de obsidian pietruit",
+  "block.refinedobsidian.cobbled_obsidian_wall": "Zid de obsidian pietruit",
+
+  "block.refinedobsidian.chiseled_obsidian": "Obsidian cizelat",
+
+  "item.refinedobsidian.obsidian_dust": "Praf de obsidian",
+
+  "itemgroup.refinedobsidian": "Obsidian rafinat",
+
+  "trim_material.refinedobsidian.obsidian_dust": "Material de praf de obsidian"
+}

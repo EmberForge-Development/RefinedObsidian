@@ -1,24 +1,31 @@
 {
-  "block.refinedobsidian.chiseled_obsidian": "Obsidiana Talhada",
-  "block.refinedobsidian.cobbled_obsidian": "Pedregulho de Obsidiana",
-  "block.refinedobsidian.cobbled_obsidian_slab": "Laje de Pedregulho de Obsidiana",
-  "block.refinedobsidian.cobbled_obsidian_stairs": "Escadas de Pedregulho de Obsidiana",
-  "block.refinedobsidian.cobbled_obsidian_wall": "Muro de Pedregulho de Obsidiana",
-  "block.refinedobsidian.cracked_obsidian_bricks": "Tijolos de Obsidiana Rachada",
-  "block.refinedobsidian.cracked_obsidian_tiles": "Ladrilhos de Obsidiana Rachada",
+  "block.refinedobsidian.obsidian_bricks": "Tijolos de Obsidiana",
   "block.refinedobsidian.obsidian_brick_slab": "Laje de Obsidiana Rachada",
   "block.refinedobsidian.obsidian_brick_stairs": "Obsidian Brick Stairs",
   "block.refinedobsidian.obsidian_brick_wall": "Muro de Tijolos de Obsidiana",
-  "block.refinedobsidian.obsidian_bricks": "Tijolos de Obsidiana",
+  "block.refinedobsidian.cracked_obsidian_bricks": "Tijolos de Obsidiana Rachada",
+
+  "block.refinedobsidian.obsidian_tiles": "Ladrilhos de Obsidiana",
   "block.refinedobsidian.obsidian_tile_slab": "Laje de Ladrilhos de Obsidiana",
   "block.refinedobsidian.obsidian_tile_stairs": "Escadas de Ladrilhos de Obsidiana",
   "block.refinedobsidian.obsidian_tile_wall": "Muro de Ladrilhos de Obsidiana",
-  "block.refinedobsidian.obsidian_tiles": "Ladrilhos de Obsidiana",
+  "block.refinedobsidian.cracked_obsidian_tiles": "Ladrilhos de Obsidiana Rachada",
+
   "block.refinedobsidian.polished_obsidian": "Obsidiana Polida",
   "block.refinedobsidian.polished_obsidian_slab": "Laje de Obsidiana Polida",
   "block.refinedobsidian.polished_obsidian_stairs": "Escadas de Obsidiana Polida",
   "block.refinedobsidian.polished_obsidian_wall": "Muro de Obsidiana Polida",
-  "item.refinedobsidian.obsidian_dust": "Pó the Obsidiana",
+
+  "block.refinedobsidian.cobbled_obsidian": "Pedregulho de Obsidiana",
+  "block.refinedobsidian.cobbled_obsidian_slab": "Laje de Pedregulho de Obsidiana",
+  "block.refinedobsidian.cobbled_obsidian_stairs": "Escadas de Pedregulho de Obsidiana",
+  "block.refinedobsidian.cobbled_obsidian_wall": "Muro de Pedregulho de Obsidiana",
+
+  "block.refinedobsidian.chiseled_obsidian": "Obsidiana Talhada",
+
+  "item.refinedobsidian.obsidian_dust": "Pó de Obsidiana",
+
   "itemgroup.refinedobsidian": "Obsidiana Refinada",
+
   "trim_material.refinedobsidian.obsidian_dust": "Material de Pó de Obsidiana"
 }
