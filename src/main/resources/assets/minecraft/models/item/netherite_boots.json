@@ -56,7 +56,7 @@
       }
     },
     {
-      "model": "minecraft:item/netherite_boots_obsidian_dust_trim",
+      "model": "refinedobsidian:item/netherite_boots_obsidian_dust_trim",
       "predicate": {
         "trim_type": 0.95
       }

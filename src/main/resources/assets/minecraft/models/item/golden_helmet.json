@@ -56,7 +56,7 @@
       }
     },
     {
-      "model": "minecraft:item/golden_helmet_obsidian_dust_trim",
+      "model": "refinedobsidian:item/golden_helmet_obsidian_dust_trim",
       "predicate": {
         "trim_type": 0.95
       }
